@@ -21,6 +21,14 @@ public class RestApiTest {
 		
 		System.out.println("mobileautomation2");
 		System.out.println("mobileautomation3");
+		System.out.println("mobileautomation4");
+		System.out.println("mobileautomation5");
+
+		System.out.println("mobileautomation6");
+
+		System.out.println("mobileautomation7");
+
+
 
 
 		
