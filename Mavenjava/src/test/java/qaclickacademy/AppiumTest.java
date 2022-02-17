@@ -7,6 +7,9 @@ public class AppiumTest {
 	@Test
 	public void nativeApp() {
 		System.out.println("nativeApp");
+		System.out.println("nativeAppTest");
+
+		
 	}
 
 	@Test
