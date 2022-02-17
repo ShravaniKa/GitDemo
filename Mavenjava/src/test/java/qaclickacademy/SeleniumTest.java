@@ -7,6 +7,11 @@ public class SeleniumTest {
 	@Test
 	public void postJira() {
 		System.out.println("postjira");
+		System.out.println("postjira1");
+		System.out.println("postjira2");
+
+
+		
 
 	}
 
